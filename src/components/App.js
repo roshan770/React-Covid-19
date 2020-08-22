@@ -38,7 +38,7 @@ class App extends React.Component {
             <li className="confirmed">Confirmed = {this.state.confirmed} </li>
             <li className="recovered">Recovered = {this.state.recovered}</li>
             <li className="death">Deaths = {this.state.deaths}</li>
-            <li className="total">Remainig = {this.state.remaining}</li>
+            <li className="total">Remaining = {this.state.remaining}</li>
             <li className="date">
               Last Update Date = {this.state.lastUpdateDate}
             </li>
